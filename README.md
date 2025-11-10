@@ -61,5 +61,5 @@ Add geo maps for city/district visualizations.
 
 Compare YOY (Year-over-Year) performance across cities or banks.
 
-**9.Snapshot Link** https://github.com/Vatsalyasingh-001/UPI_Transaction-Data-Analytics-and-Power-BI-/blob/main/Snapshot_UPI.png
+**9.Dashboard Link** https://github.com/Hardiktyagi9/UPI_Transaction-Data-Analytics-and-Power-BI/blob/main/UPI_Dashboard.png
 
